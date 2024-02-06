@@ -1,11 +1,15 @@
 ![logo](https://github.com/fatema-a5878/fatema-a5878/blob/main/Banner-logo.png)
 <h1 align="center">Hi 👋, I'm Fatema Akter</h1>
-<h3 align="center">I have embarked on a mission of web development</h3>
+<h3 align="center">I have embarked on a mission of web development💻</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <a href="https://twitter.com/fatema_a5878" target="blank"><img src="https://img.shields.io/twitter/follow/fatema_a5878?logo=twitter&style=for-the-badge" alt="fatema_a5878" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working on [G3-Architects](https://github.com/fatema-a5878/G3-Architects)
+
+- 🌱 I’m currently learning **JS - Javascript**
+
+- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, Bootstrap 5**
 
 - 📫 How to reach me **fatema.a5878@gmail.com**
 
