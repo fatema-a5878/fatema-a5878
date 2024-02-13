@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatema_a5878" target="blank"><img src="https://img.shields.io/twitter/follow/fatema_a5878?logo=twitter&style=for-the-badge" alt="fatema_a5878" /></a> </p>
 
-- 🔭 I’m currently working on [legal-solution]([https://github.com/fatema-a5878/G3-Architects](https://github.com/fatema-a5878/legal-solution))
+- 🔭 I’m currently working on [legal-solution](https://github.com/fatema-a5878/legal-solution)
 
 - 🌱 I’m currently learning **JS - Javascript**
 
