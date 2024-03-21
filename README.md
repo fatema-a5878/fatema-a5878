@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatema_a5878" target="blank"><img src="https://img.shields.io/twitter/follow/fatema_a5878?logo=twitter&style=for-the-badge" alt="fatema_a5878" /></a> </p>
 
-- 🔭 I’m currently working on [A-5-Task](https://github.com/fatema-a5878/A-5-Task)
+- 🔭 I’m currently working on [A-5-Task](https://github.com/fatema-a5878/js-loop)
 
 - 🌱 I’m currently learning **JS - Javascript**
 
